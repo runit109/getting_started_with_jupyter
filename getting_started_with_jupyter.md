@@ -1,7 +1,5 @@
 # Getting Started with Jupyter Notebooks
 
-Created: Sep 26, 2020 11:53 PM
-
 # What is a Jupyter Notebook?
 
 A Jupyter Notebook is an open-source, server-client application that allows editing and running computer code and rich text elements via a web browser. A notebook has a kernel which operates as the compute engine that executes the code and produces the results. The kernel is automatically launched when the notebook is executed. The name Jupyter comes from the supported programming languages that it supports: Julia, Python, and R. 
